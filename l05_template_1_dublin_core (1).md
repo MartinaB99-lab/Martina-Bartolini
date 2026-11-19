@@ -18,11 +18,11 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition |  Your object |
 |---|---|---|
-| `title` | A name given to the resource. | ? |
-| `creator` | An entity responsible for making the resource. | ? |
-| `date` | A point or period of time associated with an event in the lifecycle of the resource. | ? |
-| `type` | The nature or genre of the resource. | ? |
-| `subject` | A topic of the resource. | ? |
+| `title` | A name given to the resource. | Campo Solagna |
+| `creator` | An entity responsible for making the resource. | Guido Guidi |
+| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1983 - 1993 |
+| `type` | The nature or genre of the resource. | Fotografia contemporanea |
+| `subject` | A topic of the resource. | Paesaggio |
 | `identifier` | An unambiguous reference to the resource within a given context. | ? |
 
 ### Optional core elements
@@ -32,11 +32,11 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 | `description` | An account of the resource. | ? |
 | `publisher` | An entity responsible for making the resource available. | ? |
 | `contributor` | An entity responsible for making contributions to the resource. | ? |
-| `format` | The file format, physical medium, or dimensions of the resource. | ? |
-| `source` | A related resource from which the described resource is derived. | ? |
+| `format` | The file format, physical medium, or dimensions of the resource. | 24x30 |
+| `source` | A related resource from which the described resource is derived. | https://iccd.cultura.gov.it/it/194/fondi-fotografici/4585/guido-guidi |
 | `language` | A language of the resource. | ? |
 | `relation` | A related resource. | ? |
-| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | ? |
+| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1983 - 1993 |
 | `rights` | Information about rights held in and over the resource. | ? |
 
 ### Dopo averlo compilato
