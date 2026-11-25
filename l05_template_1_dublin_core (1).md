@@ -20,7 +20,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 |---|---|---|
 | `title` | A name given to the resource. | Campo Solagna |
 | `creator` | An entity responsible for making the resource. | Guido Guidi |
-| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1983 - 1993 |
+| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1988 |
 | `type` | The nature or genre of the resource. | Fotografia contemporanea |
 | `subject` | A topic of the resource. | Paesaggio |
 | `identifier` | An unambiguous reference to the resource within a given context. | ? |
@@ -29,14 +29,14 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition | Your object |
 |---|---|---|
-| `description` | An account of the resource. | ? |
-| `publisher` | An entity responsible for making the resource available. | ? |
+| `description` | An account of the resource. | Fotografia di Paesaggio realizzata a Campo Solagna  sul Monte Grappa nel 1988,. l'opera fa parte della ricerca fotografica di Guidi dedicata all'esplorazione e alla documentazione del paesaggio Italiano |
+| `publisher` | An entity responsible for making the resource available. | Istituto centrale per il Catalogo e la Documentazione (ICCD), per la pubblicazione e conservazione della documentazione archivistica |
 | `contributor` | An entity responsible for making contributions to the resource. | ? |
-| `format` | The file format, physical medium, or dimensions of the resource. | 24x30 |
+| `format` | The file format, physical medium, or dimensions of the resource. | Stampa Fotografica a colori, formato 24x30 cm |
 | `source` | A related resource from which the described resource is derived. | https://iccd.cultura.gov.it/it/194/fondi-fotografici/4585/guido-guidi |
 | `language` | A language of the resource. | ? |
-| `relation` | A related resource. | ? |
-| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1983 - 1993 |
+| `relation` | A related resource. | Cinque Paesaggi, 1983- 1993- Fondo fotografico Guido Guidi |
+| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1988 - Campop Solagna, Monte Grappa, Italia |
 | `rights` | Information about rights held in and over the resource. |  Creative Commons Attribuzione 4.0 internazionale (CC BY 4.0). |
 
 ### Dopo averlo compilato
