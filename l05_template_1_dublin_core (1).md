@@ -37,7 +37,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 | `language` | A language of the resource. | ? |
 | `relation` | A related resource. | ? |
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1983 - 1993 |
-| `rights` | Information about rights held in and over the resource. | ? |
+| `rights` | Information about rights held in and over the resource. |  Creative Commons Attribuzione 4.0 internazionale (CC BY 4.0). |
 
 ### Dopo averlo compilato
 
